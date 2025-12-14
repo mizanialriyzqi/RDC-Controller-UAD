@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState() {
     super.initState();
-    // Tidak auto connect lagi, user harus tekan tombol
+
   }
 
   Future<void> _connectBluetooth() async {
